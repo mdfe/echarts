@@ -1,5 +1,5 @@
 {
-  "name": "echarts",
+  "name": "@mdfe/echarts",
   "version": "3.2.3",
   "description": "A powerful charting and visualization library for browser",
   "keywords": [
@@ -35,7 +35,7 @@
     "prepublish": "node build/amd2common.js"
   },
   "dependencies": {
-    "zrender": "^3.1.3"
+    "zrender": "3.1.3"
   },
   "devDependencies": {
     "coordtransform": "^2.0.2",
